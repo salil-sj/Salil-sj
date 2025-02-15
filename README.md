@@ -5,9 +5,10 @@ Welcome to my GitHub space! 🛠️ I love building **secure, scalable applicati
 ---
 
 ## 🚀 About Me  
-🔹 SDE-II at UBS (Formerly Credit Suisse)
-🔹 Love solving complex problems, optimizing performance & scaling apps
-🔹 A true petrolhead 🏎️🔥—always up for a chat about cars & engines!
+🔹 SDE-II at UBS (Formerly Credit Suisse) <br>  
+🔹 Love solving complex problems, optimizing performance & scaling apps <br>  
+🔹 A true petrolhead 🏎️🔥—always up for a chat about cars & engines!  
+
 
 ---
 
