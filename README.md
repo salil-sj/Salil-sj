@@ -1,14 +1,13 @@
 # Hey there! 👋 I'm Salil Joshi 🚀  
 
-Welcome to my GitHub space! 🛠️ I love building **secure, scalable applications** using **Java, Spring Boot, React, and Microservices**. Passionate about full stack development, system design, and making things work seamlessly! ✨  
+Welcome to my GitHub space! 🛠️ <br/><br/>
+I love building **secure, scalable applications** using **Java, Spring Boot, React, and Microservices**.<br/> Passionate about full stack development, system design, and making things work seamlessly! ✨  
 
 ---
 
 ## 🚀 About Me  
-🔹 SDE-II at UBS (Formerly Credit Suisse)
-
-🔹 Love solving complex problems, optimizing performance & scaling apps
-
+🔹 SDE-II at UBS (Formerly Credit Suisse)<br/>
+🔹 Love solving complex problems, optimizing performance & scaling apps<br/>
 🔹 A true petrolhead 🏎️🔥—always up for a chat about cars & engines!  
 
 
